@@ -11,5 +11,7 @@ For more details, see full step by step tutorial [on Medium](https://medium.com/
 
 Explore more about me: https://jabraneahmed.github.io/homepage/
 
+&nbsp;
 
+If you see an error, or you have a suggestion to improve the content, do not hesitate to write to me at [on Email](jabrane.ahmed13@gmail.com)
 
