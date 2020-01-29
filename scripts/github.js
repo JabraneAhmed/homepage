@@ -101,7 +101,7 @@ function showProjects(text) {
 
 function loadMoreProjects() {
 	this.style.display = 'none';
-	fetch('https://api.github.com/users/kb22/repos?sort=pushed&per_page=30&page=' + page_no)
+	fetch('https://api.github.com/users/JabraneAhmed/repos?sort=pushed&per_page=30&page=' + page_no)
 	.then(response => {
 		if (!response.ok) {
 	       return Promise.reject('Could not fetch repos information from GitHub');
