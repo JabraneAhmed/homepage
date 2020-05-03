@@ -9,7 +9,7 @@ For more details, see full step by step tutorial [on Medium](https://medium.com/
 
 &nbsp;
 
-Explore more about me: https://jabraneahmed.github.io/webpage/
+Explore more about me: https://jabraneahmed.github.io/Webpage/
 
 &nbsp;
 
